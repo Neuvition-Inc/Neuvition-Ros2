@@ -1,0 +1,25 @@
+//removed SDK link option to avoid error on user end
+md5sum:8e9180ff844978faa3e096b012b3b1bc libneusdk_boost_1_65.so.3.0.2 --> commit 6e623070dd95abf8c70899d5e1b516ac5c2af303 (HEAD -> master, origin/master, origin/HEAD)
+
+
+
+Library Version ------------------------------------------------------------------- 
+md5sum:954a6e2e14ea5669690a691bb5d2ab42  libneusdk_boost_1_70.so.3.0.2 --> commit 6e623070dd95abf8c70899d5e1b516ac5c2af303 (HEAD -> master, origin/master, origin/HEAD)
+md5sum:3cae67aee68b496d458b8c9169a3e5c7  libneusdk_boost_1_65.so.3.0.2 --> commit 6e623070dd95abf8c70899d5e1b516ac5c2af303 (HEAD -> master, origin/master, origin/HEAD)
+
+
+md5sum:03a9e0f1fd19d2aff126d4852d0d3a56 libneusdk.so.3.0.2 --> commit 6e623070dd95abf8c70899d5e1b516ac5c2af303 (HEAD -> master, origin/master, origin/HEAD)
+md5sum:cf8548eba191099846ce0bec8f4b5264 libneusdk.so.3.0.2 --> commit c3ea13a99a4ac894cf486dd9820845d4bab816c9 (HEAD -> master, origin/master, origin/HEAD)
+
+
+-- 2021-8-12 -- 
+28fb1c026b4c0608c4f72316a23d5e74  libneusdk.so.2.9.7 --> dd87a7c5cef1b928d0c9d6ab1c7305727de85363  (HEAD -> master, origin/master, origin/HEAD)
+
+
+
+------------------------------------------------------------------------------------
+commit 41b5ac0195870d97a075e30562639e3200fafb94 (HEAD -> master, origin/master, origin/HEAD)
+Author: cisson.hong <cisson.hong@easiio.com>
+Date:   Tue Jul 13 19:44:40 2021 +0800
+
+    update
