@@ -208,9 +208,9 @@ neuvitionDriver::neuvitionDriver(rclcpp::Node::SharedPtr node)
 void neuvitionDriver::neuConnect() 
 {
     printf ("Start connecting ...\n");
-    neuvition::set_camera_status(true);
+   // neuvition::set_camera_status(true);
     neuvition::set_flip_axis(false, true);
-    neuvition::set_mjpg_curl(true);
+  //  neuvition::set_mjpg_curl(true);
 
     neuvition::INeuvEvent * phandler = new gEventHandler(this);
 
@@ -293,13 +293,7 @@ void neuvitionDriver::neuInit()
     {
         std::cout<<std::fixed<<std::setprecision(6)<<get_timestamp()<<" ..connected"<<std::endl;
 
-        neuSetPwm(50);
-        usleep(200000);
-       
-        neuSetLaserPeriod(2);
-        usleep(200000);
-        neuSetDataFrame(10);
-  	usleep(200000);
+      
        
 
 
